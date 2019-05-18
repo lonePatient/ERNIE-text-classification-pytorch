@@ -2,6 +2,8 @@
 
 This repo contains a PyTorch implementation of a pretrained ERNIE model  for text classification.
 
+arxiv: https://arxiv.org/abs/1904.09223v1
+
 ## Structure of the code
 
 At the root of the project, you will see:
