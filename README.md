@@ -48,7 +48,7 @@ At the root of the project, you will see:
 
 you need download pretrained ERNIE model
 
-1. Download the  pretrained ERNIE model from [baiduNetDisk](https://pan.baidu.com/s/1BQlwbc9PZjAoVB7Kfq_Ihg) {code: uwds} and place it into the `/pyernie/model/pretrain` directory.
+1. Download the  pretrained ERNIE model from [baiduPan](https://pan.baidu.com/s/1BQlwbc9PZjAoVB7Kfq_Ihg) {password: uwds} and place it into the `/pyernie/model/pretrain` directory.
 
 2. prepare Chinese raw data(example,news data), you can modify the `io.data_transformer.py` to adapt your data.
 
