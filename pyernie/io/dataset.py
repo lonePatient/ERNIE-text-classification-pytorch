@@ -2,7 +2,7 @@
 import csv
 import numpy as np
 from torch.utils.data import Dataset
-from pytorch_pretrained_bert.tokenization import BertTokenizer
+from ..model.ernie.tokenization import BertTokenizer
 
 class InputExample(object):
     def __init__(self, guid, text_a, text_b=None, label=None):
